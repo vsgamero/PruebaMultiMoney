@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "583D5F8C-5CAE-4828-BA3B-A416BEECF9F0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8120F42-BB08-4A72-84A6-C934C3046FE8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;Morty/ViewModel/CharactersViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "getSpecificCharacter(identifier:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E8120F42-BB08-4A72-84A6-C934C3046FE8 - 51ece669381b9d06"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;Rickandmortyapi.GetCharacterQuery.Data&gt;, Swift.Error&gt;) -&gt; () in Rick_Morty.CharactersViewModel.getSpecificCharacter(identifier: Swift.String) -&gt; ()"
+                  moduleName = "Rick&amp;Morty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samuelgamero/Desktop/Rick&amp;Morty/Rick&amp;Morty/ViewModel/CharactersViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "E8120F42-BB08-4A72-84A6-C934C3046FE8 - 51ece669381b9d27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;Rickandmortyapi.GetCharacterQuery.Data&gt;, Swift.Error&gt;) -&gt; () in Rick_Morty.CharactersViewModel.getSpecificCharacter(identifier: Swift.String) -&gt; ()"
+                  moduleName = "Rick&amp;Morty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samuelgamero/Desktop/Rick&amp;Morty/Rick&amp;Morty/ViewModel/CharactersViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F3A8416-0964-459A-864B-C2740053BFE1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;Morty/ViewModel/CharactersViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "getSpecificCharacter(identifier:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9F3A8416-0964-459A-864B-C2740053BFE1 - 1014a9dac4ee2fb5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick_Morty.CharactersViewModel.getSpecificCharacter(identifier: Swift.String) -&gt; ()"
+                  moduleName = "Rick&amp;Morty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samuelgamero/Desktop/Rick&amp;Morty/Rick&amp;Morty/ViewModel/CharactersViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "9F3A8416-0964-459A-864B-C2740053BFE1 - 51ece669381b9ce5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;Rickandmortyapi.GetCharacterQuery.Data&gt;, Swift.Error&gt;) -&gt; () in Rick_Morty.CharactersViewModel.getSpecificCharacter(identifier: Swift.String) -&gt; ()"
+                  moduleName = "Rick&amp;Morty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samuelgamero/Desktop/Rick&amp;Morty/Rick&amp;Morty/ViewModel/CharactersViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F25D97DC-F217-4A70-87E8-A8CE0D8B2452"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;Morty/View/CharactersView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "F25D97DC-F217-4A70-87E8-A8CE0D8B2452 - 46d93a708c005417"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int) -&gt; SwiftUI.NavigationLink&lt;SwiftUI.Text, Rick_Morty.CharacterDetailView&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.ClosedRange&lt;Swift.Int&gt;, Swift.Int, SwiftUI.NavigationLink&lt;SwiftUI.Text, Rick_Morty.CharacterDetailView&gt;&gt; in closure #3 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.tabItem&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(() -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.tabItem&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(() -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in Rick_Morty.CharactersView.body.getter : some"
+                  moduleName = "Rick&amp;Morty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samuelgamero/Desktop/Rick&amp;Morty/Rick&amp;Morty/View/CharactersView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "F25D97DC-F217-4A70-87E8-A8CE0D8B2452 - 99f09cff782554df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; Rick_Morty.CharacterDetailView in closure #1 (Swift.Int) -&gt; SwiftUI.NavigationLink&lt;SwiftUI.Text, Rick_Morty.CharacterDetailView&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.ClosedRange&lt;Swift.Int&gt;, Swift.Int, SwiftUI.NavigationLink&lt;SwiftUI.Text, Rick_Morty.CharacterDetailView&gt;&gt; in closure #3 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.tabItem&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(() -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.tabItem&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(() -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in Rick_Morty.CharactersView.body.getter : some"
+                  moduleName = "Rick&amp;Morty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samuelgamero/Desktop/Rick&amp;Morty/Rick&amp;Morty/View/CharactersView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EEEEE00F-6206-4481-BE62-824ACCA2BA1F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;Morty/Model/GlobalArrayManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "deleteItemByID(id:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
